@@ -32,11 +32,11 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 # 菜单中的按钮
 navigation:
-  - name: Homepage
+  - name: Blogs
     url: /
   - name: About
     url: /about
-  - name: Timeline
+  - name: Archives
     url: /archive
   - name: Tags
     url: /tags
@@ -73,7 +73,7 @@ footer-text: Copyright (c) 2020
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
