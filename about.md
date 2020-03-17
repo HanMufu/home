@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 关于
+title: Welcome!
 permalink: /about/
 ---
 
-#About Me
+# About me
 
 I am a master student at Rutgers University. Previously, I worked at Dell EMC and Getti Tech as a software engineer intern. 
 
@@ -12,14 +12,14 @@ I am a passionate Software Developer and System Engineer. My main programming la
 
 My choice of IDE is **VSCode**, **InteliJ** and **PyCharm**. If I work remotely over `ssh` I can **Vim** my way around. 
 
-Outside of CS, I like playing basketball :basketball: and workout. 
+Outside of CS, I like playing basketball and workout. 
 
 # Resume
 
 You can find my resume [here](https://drive.google.com/file/d/1qF6VMQnMDf4SALDPItoRZJtdkU3tMkKp/view?usp=sharing).
 
-#Contact
+# Contact
 
 Email: hanmufu@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/mufuhan/)      [Github](https://github.com/HanMufu)      [Twitter](https://twitter.com/HanMufu)
+[Linkedin](https://www.linkedin.com/in/mufuhan/)           [Github](https://github.com/HanMufu)           [Twitter](https://twitter.com/HanMufu)
