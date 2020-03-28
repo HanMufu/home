@@ -1,16 +1,12 @@
-```
 ---
 layout: post
 title: Example code for using AWS SNS Service in Java
 date: 2020-03-27
 Author: Mufu Han
+toc: true
 tags: [Java, AWS, Gradle]
 --- 
-```
-
-This is a Spring Boot application and I use Gradle to maintain dependencies. I will show you how to implement a simple SNS service to send SMS texts to users' phone. 
-
-
+This is a Spring Boot application and I use Gradle to maintain dependencies. I will show you a example code which implements a simple SNS service to send SMS texts to users' phone. 
 
 ## Add dependencies in build.gradle
 
@@ -50,8 +46,6 @@ test {
 }
 ````
 
-
-
 ## Implement it with Controller and Service layers
 
 I have a SMSController, SMSService and a SMSServiceImpl. 
@@ -90,8 +84,6 @@ public class SMSController {
 }
 ```
 
-
-
 SMSService.java:
 
 ```java
@@ -103,8 +95,6 @@ public interface SMSService {
 
 }
 ```
-
-
 
 SMSServiceImpl.java:
 
