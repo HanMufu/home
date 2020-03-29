@@ -8,6 +8,8 @@ tags: [Java, AWS, Gradle]
 --- 
 This is a Spring Boot application and I use Gradle to maintain dependencies. I will show you a example code which implements a simple SNS service to send SMS texts to users' phone. 
 
+<!-- more -->
+
 ## Add dependencies in build.gradle
 
 My build.gradle looks like:
