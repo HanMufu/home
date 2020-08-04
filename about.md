@@ -16,7 +16,7 @@ Outside of Computer Science, I like playing basketball and workout.
 
 # Resume
 
-You can find my resume [here](https://drive.google.com/file/d/1qF6VMQnMDf4SALDPItoRZJtdkU3tMkKp/view?usp=sharing).
+You can find my resume [here](https://drive.google.com/file/d/1ZLqUDTM_6UXL7ZxrYxs1LVaGJpEivdKz/view?usp=sharing).
 
 # Contact
 
